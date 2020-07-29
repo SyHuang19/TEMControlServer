@@ -9,3 +9,4 @@ TEMControlServer/bin/*
 TEMControlServer/bin/Debug/*
 !TEMControlServer/bin/Debug/TEMControlWrapper.dll
 !TEMControlServer/bin/Debug/TEMControlWrapper.pdb
+!TEMControlServer/bin/Debug/Server.config

@@ -12,7 +12,7 @@ namespace TEMControlServer
         static void Main(string[] args)
         {
             Console.WriteLine("Server: Reading the config file..");
-            RemotingConfiguration.Configure(@"..\..\Server.config", false);
+            RemotingConfiguration.Configure("Server.config", false);
 
             Console.WriteLine("Server ready...");
             Console.ReadLine();
